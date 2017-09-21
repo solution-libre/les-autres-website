@@ -108,6 +108,7 @@ fieldset[disabled] .btn-xl.active {
 }
 header {
   background-color: #cccbc9;
+  background-image: url('../img/header-bg.jpg');
 }
 .timeline > li .timeline-image {
   background-color: #ff7058;
