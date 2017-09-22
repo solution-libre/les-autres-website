@@ -1,4 +1,4 @@
-## 2017-09-13 - Release 0.1.0
+## 2017-09-22 - Release 0.1.0
 ### Summary
 This is the initial release
 
@@ -6,3 +6,5 @@ This is the initial release
 - About
 - Legal Notice
 - Contact
+- Team
+- Concept
