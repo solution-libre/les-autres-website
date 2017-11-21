@@ -1,3 +1,6 @@
 [submodule "startbootstrap-agency"]
 	path = startbootstrap-agency
 	url = https://github.com/BlackrockDigital/startbootstrap-agency.git
+[submodule "tarteaucitron.js"]
+	path = tarteaucitron.js
+	url = https://github.com/AmauriC/tarteaucitron.js
